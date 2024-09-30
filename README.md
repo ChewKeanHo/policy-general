@@ -28,7 +28,7 @@ This repository is version controlled using
 The latest license files shall be referenced and be downloadable from:
 
 ```
-https://doi.org/TBD
+https://doi.org/10.5281/zenodo.13859294
 ```
 
 

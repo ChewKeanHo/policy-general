@@ -1,8 +1,8 @@
 cff-version: "1.2.0"
 type: "software"
-date-released: "2024-04-19"
-title: "(Holloway) Chew, Kean Ho's Commercial Open Source License"
-version: "1.1.0"
+date-released: "2024-10-15"
+title: "(Holloway) Chew, Kean Ho's General Terms & Conditions Policy"
+version: "2.0.0"
 license: "CC-BY-ND-4.0"
 repository: "https://github.com/ChewKeanHo/license-cos"
 repository-code: "https://github.com/ChewKeanHo/license-cos"
@@ -29,6 +29,10 @@ abstract: |-
      not limited to new language addition, updating "README.md", and etc.
 message: |-
   Please cite and reference this repository accordingly.
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.13859294"
+    description: "General & Latest"
 authors:
   - given-names: "Kean Ho"
     family-names: "Chew"
